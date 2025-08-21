@@ -18,7 +18,7 @@ Esta es una aplicacion desarrollado con la arquitectura cliente-servidor utiliza
 # Instalación
 1. Clonar el repositorio:
    
-   git clone https://github.com/TU_USUARIO/tareas_cliente-servidor.git
+   git clone https://github.com/letjavier763/tareas_cliente-servidor.git
    cd tareas_cliente-servidor
 
 2. Instalar dependencias:
