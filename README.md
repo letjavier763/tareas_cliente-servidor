@@ -1,10 +1,4 @@
-<p align="center"><a href="#" target="_blank"><img src="https://img.icons8.com/?size=512&id=74402&format=png" width="200" alt="Logo Tareas"></a></p>
-
-<p align="center">
-<a href="https://github.com/TU_USUARIO/tareas_cliente-servidor/actions"><img src="https://img.shields.io/github/actions/workflow/status/TU_USUARIO/tareas_cliente-servidor/laravel.yml?branch=master" alt="Build Status"></a>
-<a href="#"><img src="https://img.shields.io/github/stars/TU_USUARIO/tareas_cliente-servidor" alt="Stars"></a>
-<a href="#"><img src="https://img.shields.io/github/license/TU_USUARIO/tareas_cliente-servidor" alt="License"></a>
-</p># Gestión de Tareas - Cliente Servidor
+# Gestión de Tareas - Cliente Servidor
 
 Esta es una aplicacion desarrollado con la arquitectura cliente-servidor utilizando "Laravel", como parte del curso de Analisis de sistemas II.
 
