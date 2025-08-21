@@ -6,7 +6,7 @@ Esta es una aplicacion desarrollado con la arquitectura cliente-servidor utiliza
 - Registro y autenticación de usuarios.
 - Creación, edición y eliminación de tareas.
 - Listado de tareas con estado (pendiente, completada).
-- Diseño minimalista y moderno con Blade.
+- Diseño con Blade.
 
 # Requisitos
 - PHP >= 8.1
