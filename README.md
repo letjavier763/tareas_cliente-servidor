@@ -35,5 +35,12 @@ Esta es una aplicacion desarrollado con la arquitectura cliente-servidor utiliza
 5. Levantar el servidor de desarrllo:
    - php artisan serve
 
+# Uso
+- Los usuarios pueden registrarse e iniciar sesión.
+- Crear nuevas tareas desde el panel.
+- Editar o eliminar tareas existentes.
+- Marcar tareas como completadas.
 
+# Autor
+- Javier Maldonado
 
