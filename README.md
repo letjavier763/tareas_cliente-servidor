@@ -22,18 +22,18 @@ Esta es una aplicacion desarrollado con la arquitectura cliente-servidor utiliza
    cd tareas_cliente-servidor
 
 2. Instalar dependencias:
-   composer install
-   npm install && npm run dev
+   - composer install
+   - npm install && npm run dev
 
-3. Configurar archivo .env
-   cp .env.example .env
-   php artisan key:generate
+3. Configurar archivo .env:
+   - cp .env.example .env
+   - php artisan key:generate
 
 4. Crear base de datos y ejecutar migraciones:
-   php artisan migrate
+   - php artisan migrate
 
 5. Levantar el servidor de desarrllo:
-   php artisan serve
+   - php artisan serve
 
 
 
